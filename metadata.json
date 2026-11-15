@@ -1,0 +1,6 @@
+{
+  "name": "OptiStock Retail — Demand-Driven Inventory Optimization System",
+  "description": "Enterprise demand-driven inventory optimization, statistical demand forecasting, EOQ/safety stock calculation, POS, supplier, and purchase order platform for Indian retailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
